@@ -20,12 +20,6 @@
 <img src =https://camo.githubusercontent.com/5d164540a5605e6220d189bf2e232d088619cd4ff33032f01cf2452ffc79004f/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f632d6c6f676f2d69636f6e2d31382e706e67 align="left" height="44" width="44" >
 <img src =https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png  height="44" width="44" >
 
-### --Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/> 
 
 [linkedin]: https://www.linkedin.com/in/muzaffersina/
 [github]: https://github.com/Muzaffersina
